@@ -1,0 +1,15 @@
+.canvasContainer {
+  border: 5px solid black;
+  width: 60%;
+  height: 80%;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  display: flex;
+}
+
+.canvas {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+}

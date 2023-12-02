@@ -1,0 +1,25 @@
+.appContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pointInputs {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  margin-right: 20px;
+  gap: 20px;
+}
+
+.pointStatus {
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+
+.submitBtn {
+  padding: 10px;
+  font-weight: 500;
+}
